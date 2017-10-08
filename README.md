@@ -1,5 +1,4 @@
-Assembly<br>手机上的汇编语言开发环境，提供GNU as和nasm的开发，调试<br>
-==========
-Assembly-Terminal
-==========
-自制的开发环境终端
+# Assembly
+Mobile GNU Assembler and Netwide Assembler Development Environment
+## Assembly-Terminal
+This terminal emualtor fork [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator)
